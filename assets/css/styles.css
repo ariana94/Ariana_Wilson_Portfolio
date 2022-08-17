@@ -89,12 +89,23 @@ header.masthead h2 {
 }
 
 .brand-statement,
-.about-me {
+.about-me,
+.volunteer-sect {
     margin-top: 50px;
     font-size: 1.2em;
     font-weight: 100;
     line-height: 1.5;
+    margin-bottom: 100px;
 }
+
+
+link.hover {
+  color: rgb(95, 210, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
 
 .skills-row {
     margin-top: 50px;
